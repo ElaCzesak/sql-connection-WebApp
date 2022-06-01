@@ -1,0 +1,8 @@
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\bin\Debug\Giraffe.exe.config
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\bin\Debug\Giraffe.exe
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\bin\Debug\Giraffe.pdb
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.AssemblyReference.cache
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.SuggestedBindingRedirects.cache
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.CoreCompileInputs.cache
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\obj\Debug\Giraffe.exe
+C:\git\sql-connection-WebApp\Giraffe\Giraffe\obj\Debug\Giraffe.pdb

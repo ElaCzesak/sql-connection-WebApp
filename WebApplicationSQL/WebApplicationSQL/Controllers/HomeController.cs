@@ -16,9 +16,10 @@ namespace WebApplicationSQL.Controllers
         public IActionResult Index()
         {
 
-            
+            var sql = new SqlConnector();
+            var cars = sql.ReadCarData();
 
-           return View();
+            return View(cars);
         }
         
 

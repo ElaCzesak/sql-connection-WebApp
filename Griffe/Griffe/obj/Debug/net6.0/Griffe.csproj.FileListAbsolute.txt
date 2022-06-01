@@ -1,0 +1,15 @@
+C:\git\sql-connection-WebApp\Griffe\Griffe\bin\Debug\net6.0\Griffe.exe
+C:\git\sql-connection-WebApp\Griffe\Griffe\bin\Debug\net6.0\Griffe.deps.json
+C:\git\sql-connection-WebApp\Griffe\Griffe\bin\Debug\net6.0\Griffe.runtimeconfig.json
+C:\git\sql-connection-WebApp\Griffe\Griffe\bin\Debug\net6.0\Griffe.dll
+C:\git\sql-connection-WebApp\Griffe\Griffe\bin\Debug\net6.0\Griffe.pdb
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.csproj.AssemblyReference.cache
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.AssemblyInfoInputs.cache
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.AssemblyInfo.cs
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.csproj.CoreCompileInputs.cache
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.dll
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\refint\Griffe.dll
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.pdb
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\Griffe.genruntimeconfig.cache
+C:\git\sql-connection-WebApp\Griffe\Griffe\obj\Debug\net6.0\ref\Griffe.dll
